@@ -1,4 +1,5 @@
 module ncurses {
     umbrella header "swiftncurses_ncurses.h"
-    link "ncurses"
+    link "ncursesw"
+    export *
 }

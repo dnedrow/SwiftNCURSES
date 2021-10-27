@@ -11,9 +11,8 @@ import Foundation
 import ncurses
 
 public class Screen {
-    private var internalScreen: SCREEN
 
     public init?() {
-        initscr();
+        let thisScreen = initscr();
     }
 }
