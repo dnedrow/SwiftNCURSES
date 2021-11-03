@@ -8,7 +8,7 @@ import Darwin
 #endif
 
 import Foundation
-import ncurses
+import shim
 
 public class Screen {
 
