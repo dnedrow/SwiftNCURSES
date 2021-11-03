@@ -5,6 +5,6 @@
 #ifndef SWIFTNCURSES_NCURSES_H
 #define SWIFTNCURSES_NCURSES_H
 
-#include <swiftncurses-ncurses.h>
+#include <ncurses.h>
 
 #endif //SWIFTNCURSES_NCURSES_H
